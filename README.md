@@ -1,6 +1,6 @@
 # Figma로 하는 디자인 맛보기 Class
 
-Figma 디자인 도구를 활용하는 방법 맛보기 [강좌](bit.ly/yamoo9FigmaMc) 수업 자료 저장소입니다.
+Figma 디자인 도구를 활용하는 방법 맛보기 강의 수업 자료 저장소입니다.
 
 <img src="_/figma-course.png" alt style="border: 1px solid #ddd"/>
 
