@@ -65,6 +65,10 @@ Figma 팀이 제공하는 튜토리얼 문서를 한글로 번역하였습니다
 
 - [Figma를 활용한 디자인 시스템 제작](./DesignSystem/README.md)
 
+## 타이포그래피
+
+- [웹 타이포그래피](./WebTypography/README.md)
+
 ## 디자인 패턴 
 
 - [pttrns.com](https://pttrns.com)
@@ -74,14 +78,14 @@ Figma 팀이 제공하는 튜토리얼 문서를 한글로 번역하였습니다
 ## 디자인 리소스
 
 - [Vector 로고 - worldvectorlogo.com](https://worldvectorlogo.com)
-- [Bitmap 이미지 - pexels.com](https://https://pexels.com)
+- [Bitmap 이미지 - pexels.com](https://pexels.com)
 - [Bitmap 이미지 - unsplash.com](https://unsplash.com)
 
 ## 디자인 온라인 도구
 
-- [웹 타이포그래피 - gridlover.net](https://www.gridlover.net/try)
+- [웹 타이포그래피 - gridlover.net](https://www.gridlover.net/try) | [8pt Grid 콘텐츠](https://gist.github.com/yamoo9/19ed3b70982d2e5be0cee0d79536d553#file-gridlover-markdown-txt)
 - [웹 타이포그래피 - Basel;ne](http://b4d455.fr/basel)
-- [온라인 Photo 에디터 - photopea.com](https://www.photopea.com)
+- [온라인 Photo 에디터 - photopea.com](https://photopea.com)
 
 ## 디자인 레퍼런스
 
