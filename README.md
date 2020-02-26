@@ -61,6 +61,11 @@ Figma 팀이 제공하는 튜토리얼 문서를 한글로 번역하였습니다
 1. [Figma 프로토타입(Prototype)](https://www.figma.com/file/us6xovlKt0GLd6ZBbiuF9Y/04-Figma-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-Prototype)
 1. [Figma 자동 배치(Auto Layout)](https://www.figma.com/file/4uQA39FDevPRDQo2cdt2cG/05-Figma-%EC%9E%90%EB%8F%99-%EB%B0%B0%EC%B9%98-Auto-Layout)
 
+## 실습 파일
+
+- [Multi Campus UI (실습시작)](https://www.figma.com/file/oeC5IV5WsuUxkJ5Qh56nbd/Multi-Campus-UI-%EC%8B%A4%EC%8A%B5%EC%8B%9C%EC%9E%91)
+- [Multi Campus UI (실습완성)](https://www.figma.com/file/SGmYm8IfdRXpASo3vp4r3L/Multi-Campus-UI-%EC%8B%A4%EC%8A%B5%EC%99%84%EC%84%B1)
+
 ## 디자인 시스템
 
 - [Figma를 활용한 디자인 시스템 제작](./DesignSystem/README.md)
