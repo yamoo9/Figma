@@ -63,8 +63,10 @@ Figma 팀이 제공하는 튜토리얼 문서를 한글로 번역하였습니다
 
 ## 실습 파일
 
-- [Multi Campus UI (실습시작)](https://www.figma.com/file/oeC5IV5WsuUxkJ5Qh56nbd/Multi-Campus-UI-%EC%8B%A4%EC%8A%B5%EC%8B%9C%EC%9E%91)
-- [Multi Campus UI (실습완성)](https://www.figma.com/file/SGmYm8IfdRXpASo3vp4r3L/Multi-Campus-UI-%EC%8B%A4%EC%8A%B5%EC%99%84%EC%84%B1)
+- [Multi Campus UI (실습 시작)](https://www.figma.com/file/oeC5IV5WsuUxkJ5Qh56nbd/Multi-Campus-UI-%EC%8B%A4%EC%8A%B5%EC%8B%9C%EC%9E%91)
+- [Multi Campus UI (실습 완성)](https://www.figma.com/file/SGmYm8IfdRXpASo3vp4r3L/Multi-Campus-UI-%EC%8B%A4%EC%8A%B5%EC%99%84%EC%84%B1)
+- [Parallax 효과 (실습 시작)](https://www.figma.com/file/VGB3b1kWp60Y20YaLJ6IEe/Parallax-%ED%9A%A8%EA%B3%BC-%EC%8B%A4%EC%8A%B5-%EC%8B%9C%EC%9E%91)
+- [Parallax 효과 (실습 완성)](https://www.figma.com/file/THBQt5XoqDFOhrQ1yYWjZA/Parallax-%ED%9A%A8%EA%B3%BC-%EC%8B%A4%EC%8A%B5-%EC%99%84%EC%84%B1)
 
 ## 디자인 시스템
 
