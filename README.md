@@ -2,7 +2,7 @@
 
 Figma 디자인 도구를 활용하는 방법 맛보기 강의 수업 자료 저장소입니다.
 
-<img src="_/figma-course.png" alt style="border: 1px solid #ddd"/>
+<img src="./_/figma-course.png" alt/>
 
 ## 1. Figma
 
@@ -63,8 +63,30 @@ Figma 팀이 제공하는 튜토리얼 문서를 한글로 번역하였습니다
 
 ## 실습 파일
 
+Figma 기초 툴테크닉을 학습한 후, 준비 된 실습 예제 제작를 진행해봅니다.
+
+### 멀티 캠퍼스 UI 제작 실습
+
+준비 된 예제 순서에 맞춰 Design Sytem → UI → Prototyping 순으로 실습을 진행합니다.
+
+<img src="./_/multicampus.png" alt>
+<br>
+<br>
+
 - [Multi Campus UI (실습 시작)](https://www.figma.com/file/oeC5IV5WsuUxkJ5Qh56nbd/Multi-Campus-UI-%EC%8B%A4%EC%8A%B5%EC%8B%9C%EC%9E%91)
 - [Multi Campus UI (실습 완성)](https://www.figma.com/file/SGmYm8IfdRXpASo3vp4r3L/Multi-Campus-UI-%EC%8B%A4%EC%8A%B5%EC%99%84%EC%84%B1)
+
+<br>
+
+
+### 패럴럭스(Parallax) 프로토타이핑
+
+준비 된 예제를 실습해 패럴럭스 프로토타입에 대해 학습합니다. (Smart Animate 활용)
+
+<img src="./_/Parallax.png" alt>
+<br>
+<br>
+
 - [Parallax 효과 (실습 시작)](https://www.figma.com/file/VGB3b1kWp60Y20YaLJ6IEe/Parallax-%ED%9A%A8%EA%B3%BC-%EC%8B%A4%EC%8A%B5-%EC%8B%9C%EC%9E%91)
 - [Parallax 효과 (실습 완성)](https://www.figma.com/file/THBQt5XoqDFOhrQ1yYWjZA/Parallax-%ED%9A%A8%EA%B3%BC-%EC%8B%A4%EC%8A%B5-%EC%99%84%EC%84%B1)
 
@@ -98,3 +120,39 @@ Figma 팀이 제공하는 튜토리얼 문서를 한글로 번역하였습니다
 
 - [dribbble.com](https://dribbble.com)
 - [behance.net](https://behance.net)
+
+## Figma 추천 플러그인
+
+<!-- 
+  https://note.com/smikami/n/nf5114712aaa5 
+  https://note.com/tribako/n/nd14d25dd5743
+-->
+
+### 더미 데이터
+
+- [Unsplush](https://www.figma.com/c/plugin/738454987945972471/Unsplash)
+- [Content Reel](https://www.figma.com/c/plugin/731627216655469013/Content-Reel)
+- [Brandfetch](https://www.figma.com/c/plugin/733590967040604714/Brandfetch)
+
+### 실제 데이터
+
+- [Google Sheets Sync](https://www.figma.com/c/plugin/735770583268406934/Google-Sheets-Sync)
+
+### 생산성 향상
+
+- [Figma Walker](https://www.figma.com/c/plugin/732773762837487095/Figma-Walker)
+- [Instance Finder](https://www.figma.com/c/plugin/741895659787979282/Instance-Finder)
+- [Find and Replace](https://www.figma.com/c/plugin/735072959812183643/Find-and-Replace)
+- [Minimap](https://www.figma.com/c/plugin/772952119002135124/Minimap)
+- [Arrow Auto](https://www.figma.com/c/plugin/751007211632768205/Arrow-Auto)
+- [Notepad](https://www.figma.com/c/plugin/739527655081183968/Notepad)
+
+### 지도 
+
+- [Map Maker](https://www.figma.com/c/plugin/731312569747199418/Map-Maker)
+- [Mapsicle](https://www.figma.com/community/plugin/736458162635847353/Mapsicle)
+
+### 프로토타입
+
+- [SkewDat](https://www.figma.com/c/plugin/741472919529947576/SkewDat)
+- [Vectary 3D](https://www.figma.com/c/plugin/769588393361258724/Vectary-3D)
