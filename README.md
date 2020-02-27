@@ -81,7 +81,21 @@ Figma 기초 툴테크닉을 학습한 후, 준비 된 실습 예제 제작를 �
 
 준비 된 예제를 실습해 패럴럭스 프로토타입에 대해 학습합니다. (Smart Animate 활용)
 
-<img src="./_/Parallax.png" alt>
+#### 0. 이미지 다운로드
+
+[Woman Wearing Grey Long-sleeved Top Photography](https://www.pexels.com/photo/woman-wearing-grey-long-sleeved-top-photography-1122868/)
+
+#### 1. 이미지 오려내기 
+
+Photoshop을 사용해 사진에서 원하는 객체를 오려냅니다.
+
+<img src="./_/Parallax-Ps.png" alt>
+
+#### 2. UI 디자인
+
+Figma에서 오려낸 객체를 적절히 배치한 UI를 그려냅니다.
+
+<img src="./_/Parallax-Figma.png" alt>
 
 - [Parallax 효과 (실습 시작)](https://www.figma.com/file/VGB3b1kWp60Y20YaLJ6IEe/Parallax-%ED%9A%A8%EA%B3%BC-%EC%8B%A4%EC%8A%B5-%EC%8B%9C%EC%9E%91)
 - [Parallax 효과 (실습 완성)](https://www.figma.com/file/THBQt5XoqDFOhrQ1yYWjZA/Parallax-%ED%9A%A8%EA%B3%BC-%EC%8B%A4%EC%8A%B5-%EC%99%84%EC%84%B1)
