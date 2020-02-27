@@ -70,8 +70,6 @@ Figma 기초 툴테크닉을 학습한 후, 준비 된 실습 예제 제작를 �
 준비 된 예제 순서에 맞춰 Design Sytem → UI → Prototyping 순으로 실습을 진행합니다.
 
 <img src="./_/multicampus.png" alt>
-<br>
-<br>
 
 - [Multi Campus UI (실습 시작)](https://www.figma.com/file/oeC5IV5WsuUxkJ5Qh56nbd/Multi-Campus-UI-%EC%8B%A4%EC%8A%B5%EC%8B%9C%EC%9E%91)
 - [Multi Campus UI (실습 완성)](https://www.figma.com/file/SGmYm8IfdRXpASo3vp4r3L/Multi-Campus-UI-%EC%8B%A4%EC%8A%B5%EC%99%84%EC%84%B1)
@@ -84,8 +82,6 @@ Figma 기초 툴테크닉을 학습한 후, 준비 된 실습 예제 제작를 �
 준비 된 예제를 실습해 패럴럭스 프로토타입에 대해 학습합니다. (Smart Animate 활용)
 
 <img src="./_/Parallax.png" alt>
-<br>
-<br>
 
 - [Parallax 효과 (실습 시작)](https://www.figma.com/file/VGB3b1kWp60Y20YaLJ6IEe/Parallax-%ED%9A%A8%EA%B3%BC-%EC%8B%A4%EC%8A%B5-%EC%8B%9C%EC%9E%91)
 - [Parallax 효과 (실습 완성)](https://www.figma.com/file/THBQt5XoqDFOhrQ1yYWjZA/Parallax-%ED%9A%A8%EA%B3%BC-%EC%8B%A4%EC%8A%B5-%EC%99%84%EC%84%B1)
