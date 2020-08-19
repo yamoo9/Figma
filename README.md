@@ -102,6 +102,7 @@ Figma에서 오려낸 객체를 적절히 배치한 UI를 그려냅니다.
 
 ## 디자인 시스템
 
+- [디자인 시스템에 대해 알아야 할 모든 것](./DesignSystem/everything-you-need-to-know-about-design-systems.md)
 - [Figma를 활용한 디자인 시스템 제작](./DesignSystem/README.md)
 
 ## 타이포그래피
